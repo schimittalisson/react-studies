@@ -1,2 +1,2 @@
 # react-studies
-repository to register some learning stuff on react
+repository to register some stuff i've been learning on react.
